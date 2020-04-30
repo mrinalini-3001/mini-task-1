@@ -1,2 +1,3 @@
 # mini-task-1
-Mini Task 1 - Electronics Club
+Electronics Club
+# Pressure Activated Light-Up Umbrella
