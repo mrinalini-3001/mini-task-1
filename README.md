@@ -25,4 +25,8 @@ The project aims at building an Arduino PID (Proportional derivative and integra
 ![](https://nevonprojects.com/wp-content/uploads/2020/01/Arduino-PID-based-DC-Motor-Position-Control-System-1080.jpg)
 
 # Sound Reactive LED Strip
-The project uses a parallax sound impact sensor and an Arduino. The parallax sound impact sensor is that it picks up sounds that cross a certain decibel level
+The project uses a parallax sound impact sensor and an Arduino. The parallax sound impact sensor is that it picks up sounds that cross a certain decibel level. The sensor also has a dial with which the sensitivity can be changed. The LED lights mathch the beats of the song.
+
+![](https://cdn.instructables.com/FBQ/5XH4/HQV6J6NC/FBQ5XH4HQV6J6NC.LARGE.jpg?auto=webp&frame=1&fit=bounds)
+
+#
