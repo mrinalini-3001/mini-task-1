@@ -16,6 +16,13 @@ The project involves using ultrasonic sensor attached to an Arduino to alert the
 
 ![](https://hackster.imgix.net/uploads/attachments/1111129/img_20200429_181122_IFnN4xRHBn.jpg?auto=compress%2Cformat&w=740&h=555&fit=max)
 
-#
+# IoT Liquid Level Monitoring System
+This project monitors the liquid level by using an Arduino, ultrasonic sensors to detect the level and buzzer to alert the user. This project will warn the user if the level of the liquid crosses a threshold value and prevent overflowing. 
 
+# Arduino PID based DC Motor Position Control
+The project aims at building an Arduino PID (Proportional derivative and integral calculation-based DC motor Position Control System). A double shaft simple DC gear motor is connected with the shaft of encoder on one side and on another side, is connected with a pointer. This pointer points to the angle marked on the protractor, an encoder is connected with Arduino on interrupt pins and DC motor drive by L293D motor IC, an HC-05 module is used to connect the system with android device.
 
+![](https://nevonprojects.com/wp-content/uploads/2020/01/Arduino-PID-based-DC-Motor-Position-Control-System-1080.jpg)
+
+# Sound Reactive LED Strip
+The project uses a parallax sound impact sensor and an Arduino. The parallax sound impact sensor is that it picks up sounds that cross a certain decibel level
