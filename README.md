@@ -29,4 +29,16 @@ The project uses a parallax sound impact sensor and an Arduino. The parallax sou
 
 ![](https://cdn.instructables.com/FBQ/5XH4/HQV6J6NC/FBQ5XH4HQV6J6NC.LARGE.jpg?auto=webp&frame=1&fit=bounds)
 
-#
+# Morse Code Communication Using Arduino
+This project uses two push buttons, an LED, a Buzzer and an Arduino to decode messages sent using Morse Code. 
+
+# Blow the Mine Game
+It is an Arduino based game consisting of a cluster of 7 LEDs. Each LED act as a mine. Players have to blow the mine of opponent player.
+
+# Arduino Speed Detector
+ This project an arduino uno to detect speed of various moving objects with the help of a pair of IR sensors and get the speed.
+ 
+ # Bouncing Ball
+ This project uses an Arduino and an Adafruit LED Matrix. The ball (which is the LED) will bounce about the screen indefinitely.
+ 
+ # 
